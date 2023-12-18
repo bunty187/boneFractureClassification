@@ -2,8 +2,9 @@ import streamlit as st
 
 from PIL import Image
 import numpy as np
-import tensorflow 
+import tensorflow as tf
 from tensorflow import keras
+# import tensorflow as tf
 from keras.layers import Dense
 from keras.models import load_model
 from util import classify
