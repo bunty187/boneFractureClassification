@@ -1,0 +1,12 @@
+0 Avulsion
+1 Comminuted
+2 Compression-Crush
+3 Fracture-Dislocation
+4 Greenstick
+5 Hairline
+6 Impacted
+7 Intra-articular
+8 Longitudinal
+9 Oblique
+10 Pathological
+11 Spiral
