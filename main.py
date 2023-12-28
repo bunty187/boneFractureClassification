@@ -47,7 +47,7 @@ if st.button('Submit'):
         if class_name in class_names:
             # write classification
             st.write("This Person has {} type of Bone Fracture".format(class_name))
-            st.write("### score: {}%".format(int(conf_score * 1000) / 10))
+            # st.write("### score: {}%".format(int(conf_score * 1000) / 10))
         else:
             class_name="Sorry, we don't classify them"
             st.write("## {}".format(class_name))
